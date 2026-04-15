@@ -47,4 +47,4 @@ Project 2
 S3 Static Website Hosting ✅
 
 Project 3
-Load Balancer + Multiple EC2 Instances (Next)
+AWS CI/CD Pipeline – Automated Website Deployment
